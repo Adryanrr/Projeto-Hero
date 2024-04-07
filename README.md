@@ -20,5 +20,5 @@ meuHeroi.atacar();
 ````
 
 ### Exemplo de Saida 
-O mago atacou usando usou magia!
+O Heroi Sung de classe mago atacou usando usou magia!
 
