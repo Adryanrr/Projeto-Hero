@@ -17,6 +17,8 @@ Exemplo de uso:
 ```javascript
 const meuHeroi = new Hero("Sung", 23, "mago");
 meuHeroi.atacar();
+````
 
-## Exemplo de Saida 
-o mago atacou usando usou magia
+### Exemplo de Saida 
+O mago atacou usando usou magia!
+
